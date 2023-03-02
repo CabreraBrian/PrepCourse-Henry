@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Curso Preparativo modulo 2 Henry
+este proyecto es una rpueba para crear un repositorio en github
+PrepCourse Henry Modulo 2
